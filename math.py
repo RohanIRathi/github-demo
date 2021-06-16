@@ -16,3 +16,5 @@ def divide(x,y):
 		return "Error: Cannot divide by 0"
 	else:
 		return x/y
+
+# Square Implementation
