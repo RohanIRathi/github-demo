@@ -17,6 +17,5 @@ def divide(x,y):
 	else:
 		return x/y
 
-# Square Implementation
 def square(x):
-	pass
+    return x**2
